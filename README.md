@@ -7,3 +7,7 @@ Important Websites and PDFs for Computer Graduate
 
 ### YouTube Videos/ Playlists 
 - [15 Sorting Algorithms in 6 Minutes](https://youtu.be/kPRA0W1kECg)
+
+
+
+![Last commit](https://img.shields.io/github/last-commit/Srajan7/Important)
